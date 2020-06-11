@@ -17,5 +17,5 @@ Machine Learning:
 
 matplotlib
 numpy
-
+pandas
 
