@@ -17,6 +17,6 @@ Machine Learning:
 matplotlib,
 numpy,
 pandas,
-sqlalchemy
+sqlalchemy,
 sklearn
 
