@@ -4,3 +4,7 @@ My Partner Mathew Potakey and I had decided to create a FULL STACK DEVELOPMENT P
 
 Programming Languages: Python, HTML
 Databases: Postgresql
+
+
+
+Partners: Mathew Potakey
