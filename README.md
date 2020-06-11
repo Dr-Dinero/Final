@@ -16,7 +16,7 @@ Partners: Mathew Potakey
 Machine Learning:
 matplotlib,
 numpy,
-pandas
+pandas,
 sqlalchemy
 sklearn
 
