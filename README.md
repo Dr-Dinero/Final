@@ -1,4 +1,6 @@
 Housing Prices Predictions
 
-My Partner Mathew Potakey and I had decided to do our final project on "Housing Prices Predictions using Machine Learning and housing dimension criteria. Such as dimensions of square feet of each floor, year the house was built, Lot size in square feet, and other architectural variables
+My Partner Mathew Potakey and I had decided to create a FULL STACK DEVELOPMENT PROJECT ON "Housing Prices Predictions using Machine Learning and housing dimension criteria. Just some examples of those dimensions are square feet of each floor, year the house was built, Lot size in square feet, and other architectural variables. Using This information calculated future housing prices.
 
+Programming Languages: Python, HTML
+Databases: Postgresql
