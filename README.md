@@ -18,5 +18,5 @@ matplotlib
 numpy
 pandas
 sqlalchemy
-
+sklearn
 
